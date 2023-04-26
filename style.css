@@ -1,12 +1,13 @@
-.{
-    margin: none;
+*{
+    margin: 0;
 }
 
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: #D7F9FF;
-    color: black;
-    margin: 0;
+    /* background-color: black; */
+    background-image: url("https://images.alphacoders.com/293/thumb-1920-293821.jpg");
+
+    
 }
 
 .cupcake {
@@ -55,17 +56,16 @@ body {
 }
 
 .menu-heading {
-    padding-top: 45px;
+    padding: 45px;
     text-align: center;
-    color: black;
     font-family: san-serief;
     font-size: 75px;
 }
 
 .title_heading{
     text-align: center;
-    color: black;
-    font-family: san-serief;
+    font-family: cursive;
+    padding-bottom: 25px;
 }
 
 .footer-p{
