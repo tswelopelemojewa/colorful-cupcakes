@@ -1,7 +1,12 @@
+.{
+    margin: none;
+}
+
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: #D7F9FF;
     color: black;
+    margin: 0;
 }
 
 .cupcake {
@@ -38,7 +43,7 @@ body {
 }
 
 .cupcake2 {
-    background-color: #b3b625;
+    background-color: #aa0b95;
 }
 
 .cupcake3 {
@@ -50,7 +55,20 @@ body {
 }
 
 .menu-heading {
+    padding-top: 45px;
     text-align: center;
     color: black;
     font-family: san-serief;
+    font-size: 75px;
+}
+
+.title_heading{
+    text-align: center;
+    color: black;
+    font-family: san-serief;
+}
+
+.footer-p{
+    text-align: center;
+    padding-bottom: 25px; 
 }
